@@ -14,7 +14,8 @@ Em transição de carreira para o mercado de T.I. atualmente com ênfase em ciê
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusFilipeASilva&repo=Arvores-2-Arvores-de-Regressao&theme=dark)](https://github.com/MatheusFilipeASilva/Arvores-2-Arvores-de-Regressao)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusFilipeASilva&repo=Regressao-II&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusFilipeASilva&repo=Regressao-II&theme=dark)](https://github.com/MatheusFilipeASilva/Regressao-II)
+
 ### Linguagens Utilizadas:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFilipeASilva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
