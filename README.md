@@ -12,8 +12,7 @@ Em transição de carreira para o mercado de T.I. atualmente com ênfase em ciê
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusFilipeASilva&repo=Classificacao_multinomial&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusFilipeASilva&repo=Arvores-2-Arvores-de-Regressao
-&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusFilipeASilva&repo=Arvores-2-Arvores-de-Regressao&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens Utilizadas:
 
